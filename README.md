@@ -2,6 +2,8 @@
 
 My Name is Karan Gupta. I am a Masters Student at Texas A&M University currently pursuing my MS degree in Management Information Systems. 
 
+
+![Karan's Github Stats](https://github-readme-stats.vercel.app/api?username=karan7798z&count_private=true&show_icons=true&include_all_commits=true)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=karan7798z.karan7798z)
 <!--
 **karan7798z/karan7798z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
