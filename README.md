@@ -2,6 +2,7 @@
 
 My Name is Karan Gupta. I am a Masters Student at Texas A&M University currently pursuing my MS degree in Management Information Systems. 
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=karan7798z.karan7798z)
 <!--
 **karan7798z/karan7798z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
